@@ -6,7 +6,7 @@ __来个Star吧!__
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhile&langs_count=8&layout=compact))](https://github.com/zhuzhile/personal-blog)
 
-![BeMount's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzhile&show_icons=true&theme=radical)
+![BeMount's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzhile&show_icons=true&theme=cobalt)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhuzhile)](https://github.com/zhuzhile/personal-blog)
 
