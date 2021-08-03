@@ -3,6 +3,7 @@
 __来个Star吧!__
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhuzhile&repo=personal-blog)](https://github.com/zhuzhile/personal-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhuzhile&repo=JS_Pro)](https://github.com/zhuzhile/JS_Pro)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhile&langs_count=8&layout=compact))](https://github.com/zhuzhile/personal-blog)
 
