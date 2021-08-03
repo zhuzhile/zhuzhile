@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=zhuzhile)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhuzhile&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 Here are some ideas to get you started:
