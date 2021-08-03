@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+__来个Star吧!__
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhuzhile&repo=personal-blog)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzhile&langs_count=8&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
